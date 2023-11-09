@@ -1,0 +1,17 @@
+C:\Users\Fabian\Desktop\PruebaTecnicaFinal\Prueba.Data\bin\Debug\net6.0\Prueba.Data.deps.json
+C:\Users\Fabian\Desktop\PruebaTecnicaFinal\Prueba.Data\bin\Debug\net6.0\Prueba.Data.dll
+C:\Users\Fabian\Desktop\PruebaTecnicaFinal\Prueba.Data\bin\Debug\net6.0\Prueba.Data.pdb
+C:\Users\Fabian\Desktop\PruebaTecnicaFinal\Prueba.Data\bin\Debug\net6.0\Prueba.Model.dll
+C:\Users\Fabian\Desktop\PruebaTecnicaFinal\Prueba.Data\bin\Debug\net6.0\Prueba.Model.pdb
+C:\Users\Fabian\Desktop\PruebaTecnicaFinal\Prueba.Data\obj\Debug\net6.0\Prueba.Data.csproj.AssemblyReference.cache
+C:\Users\Fabian\Desktop\PruebaTecnicaFinal\Prueba.Data\obj\Debug\net6.0\Prueba.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabian\Desktop\PruebaTecnicaFinal\Prueba.Data\obj\Debug\net6.0\Prueba.Data.AssemblyInfoInputs.cache
+C:\Users\Fabian\Desktop\PruebaTecnicaFinal\Prueba.Data\obj\Debug\net6.0\Prueba.Data.AssemblyInfo.cs
+C:\Users\Fabian\Desktop\PruebaTecnicaFinal\Prueba.Data\obj\Debug\net6.0\Prueba.Data.csproj.CoreCompileInputs.cache
+C:\Users\Fabian\Desktop\PruebaTecnicaFinal\Prueba.Data\obj\Debug\net6.0\Prueba.Data.csproj.CopyComplete
+C:\Users\Fabian\Desktop\PruebaTecnicaFinal\Prueba.Data\obj\Debug\net6.0\Prueba.Data.dll
+C:\Users\Fabian\Desktop\PruebaTecnicaFinal\Prueba.Data\obj\Debug\net6.0\refint\Prueba.Data.dll
+C:\Users\Fabian\Desktop\PruebaTecnicaFinal\Prueba.Data\obj\Debug\net6.0\Prueba.Data.pdb
+C:\Users\Fabian\Desktop\PruebaTecnicaFinal\Prueba.Data\obj\Debug\net6.0\ref\Prueba.Data.dll
+C:\Users\Fabian\Desktop\PruebaTecnicaFinal\Prueba.Data\bin\Debug\net6.0\Prueba.Data.runtimeconfig.json
+C:\Users\Fabian\Desktop\PruebaTecnicaFinal\Prueba.Data\obj\Debug\net6.0\Prueba.Data.genruntimeconfig.cache
