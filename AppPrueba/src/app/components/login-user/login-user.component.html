@@ -1,0 +1,20 @@
+<section id="login-section">
+    <div id="login-layout">
+        <h1 class="title">Login</h1>
+        <div class="form-container">
+            <form class="forms-layout" [formGroup]="loginForm" (ngSubmit)="onSubmit()">
+                <label class="label-input">Username</label>
+                <input class="input-text" type="text" placeholder="Your username" formControlName="email">
+                <label class="label-input">Password</label>
+                <input class="input-text" type="password" placeholder="your password" formControlName="password">
+                <p *ngIf="errorCredentials" class="invalid-credentials">Incorrect credentials, please try again</p>
+                <button class="button-confirm" [disabled]="!loginForm.valid">Confirm</button>
+            </form>
+            <p class="register-link">Don't have an account?
+                <span>
+                    <a [routerLink]="['/register']">Register</a>
+                </span>
+            </p>
+        </div>
+    </div>
+</section>

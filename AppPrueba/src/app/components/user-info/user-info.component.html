@@ -1,0 +1,17 @@
+<section id="user-section">
+    <ng-container *ngIf="UserData">
+        <div class="user-layout">
+            <h1 class="title">User Information</h1>
+            <img class="image-status" src="../../../assets/images/ok.png" alt="success">
+            <p class="info"><span>Name:</span> {{UserData.name}} {{UserData.lastname}}</p>
+            <p class="info"><span>Email:</span> {{UserData.email}}</p>
+            <p class="info"><span>Identification:</span> {{UserData.identificationType}} {{UserData.numIdentification}}</p>        
+        </div>
+    </ng-container>
+    <ng-container *ngIf="!UserData">
+        <div class="user-layout">
+            <h1 class="title">User not found</h1>
+            <img class="image-status" src="../../../assets/images/error.png" alt="error">
+        </div>
+    </ng-container>
+</section>

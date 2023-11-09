@@ -1,0 +1,48 @@
+<section id="register-section">
+    <div id="register-layout">
+        <h1 class="title">Create User</h1>
+        <div class="form-container">
+            <form [formGroup]="registerForm" class="forms-layout" (ngSubmit)="onSubmit()">
+                <div class="input-layout">
+                    <label class="label-input">Name</label>
+                    <input class="input-text" type="text" placeholder="Your name" formControlName="name">
+                </div>
+                <div class="input-layout">
+                    <label class="label-input">Lastname</label>
+                    <input class="input-text" type="text" placeholder="Your last name" formControlName="lastname">
+                </div>
+                <div class="input-layout">
+                    <label class="label-input">Identification</label>
+                    <input class="input-text" type="text" placeholder="Your number id" formControlName="identification">
+                </div>
+                <div class="input-layout">
+                    <label class="label-input">Email</label>
+                    <input class="input-text" type="email" placeholder="email@gmail.com" formControlName="email">
+                </div>
+                <div class="input-layout">
+                    <label class="label-input">Username</label>
+                    <input class="input-text" type="text" placeholder="Your username" formControlName="username">
+                </div>
+                <div class="input-layout">
+                    <label class="label-input">Password</label>
+                    <input class="input-text" type="password" placeholder="Your password" formControlName="password"> 
+                </div>
+                <div class="input-layout">
+                    <label class="label-input">Identification type</label>
+                    <select class="select-input" id="identification-type" name="identificationType" formControlName="identificationType"> 
+                        <option value="CC">Cédula de Ciudadanía (CC)</option>
+                        <option value="NIT">Número de Identificación Tributaria (NIT)</option>
+                        <option value="TI">Tarjeta de Identidad (TI)</option>
+                    </select>
+                </div>
+
+                <button class="button-confirm" type="submit">Confirm</button>
+            </form>
+            <p class="register-link">Already have an account?
+                <span>
+                    <a [routerLink]="['/login']">Login</a>
+                </span>
+            </p>
+        </div>
+    </div>
+</section>
