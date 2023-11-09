@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n0pMBGEeCrB57TwGP3OKA2EUZ7AWCZHg9oeDyMTZxgh4+AqW8draqM2it2TTXxsHdDBJ8DeH2mmzmtERlFjdkQ==",
+  "dgSpecHash": "fOw+UMM9OVxJL4ueT85xkJXEbADlkuskIjdP8ODM/NGhFN1wcE9lVMzn8YtfQbHzci3hBX1UgBLVJsAeNGzwXQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fabian\\Desktop\\PruebaTecnicaFinal\\Prueba.Model\\Prueba.Model.csproj",
+  "projectFilePath": "C:\\Users\\Fabian\\Desktop\\UserManagement\\BackendPrueba\\Prueba.Model\\Prueba.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fabian\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Fabian\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.13\\microsoft.entityframeworkcore.7.0.13.nupkg.sha512",

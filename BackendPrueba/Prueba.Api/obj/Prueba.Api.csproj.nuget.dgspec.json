@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fabian\\Desktop\\PruebaTecnicaFinal\\Prueba.Api\\Prueba.Api.csproj": {}
+    "C:\\Users\\Fabian\\Desktop\\UserManagement\\BackendPrueba\\Prueba.Api\\Prueba.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fabian\\Desktop\\PruebaTecnicaFinal\\Prueba.Api\\Prueba.Api.csproj": {
+    "C:\\Users\\Fabian\\Desktop\\UserManagement\\BackendPrueba\\Prueba.Api\\Prueba.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fabian\\Desktop\\PruebaTecnicaFinal\\Prueba.Api\\Prueba.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Fabian\\Desktop\\UserManagement\\BackendPrueba\\Prueba.Api\\Prueba.Api.csproj",
         "projectName": "Prueba.Api",
-        "projectPath": "C:\\Users\\Fabian\\Desktop\\PruebaTecnicaFinal\\Prueba.Api\\Prueba.Api.csproj",
+        "projectPath": "C:\\Users\\Fabian\\Desktop\\UserManagement\\BackendPrueba\\Prueba.Api\\Prueba.Api.csproj",
         "packagesPath": "C:\\Users\\Fabian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fabian\\Desktop\\PruebaTecnicaFinal\\Prueba.Api\\obj\\",
+        "outputPath": "C:\\Users\\Fabian\\Desktop\\UserManagement\\BackendPrueba\\Prueba.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fabian\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Fabian\\Desktop\\PruebaTecnicaFinal\\Prueba.Data\\Prueba.Data.csproj": {
-                "projectPath": "C:\\Users\\Fabian\\Desktop\\PruebaTecnicaFinal\\Prueba.Data\\Prueba.Data.csproj"
+              "C:\\Users\\Fabian\\Desktop\\UserManagement\\BackendPrueba\\Prueba.Data\\Prueba.Data.csproj": {
+                "projectPath": "C:\\Users\\Fabian\\Desktop\\UserManagement\\BackendPrueba\\Prueba.Data\\Prueba.Data.csproj"
               },
-              "C:\\Users\\Fabian\\Desktop\\PruebaTecnicaFinal\\Prueba.Model\\Prueba.Model.csproj": {
-                "projectPath": "C:\\Users\\Fabian\\Desktop\\PruebaTecnicaFinal\\Prueba.Model\\Prueba.Model.csproj"
+              "C:\\Users\\Fabian\\Desktop\\UserManagement\\BackendPrueba\\Prueba.Model\\Prueba.Model.csproj": {
+                "projectPath": "C:\\Users\\Fabian\\Desktop\\UserManagement\\BackendPrueba\\Prueba.Model\\Prueba.Model.csproj"
               }
             }
           }
@@ -93,14 +93,14 @@
         }
       }
     },
-    "C:\\Users\\Fabian\\Desktop\\PruebaTecnicaFinal\\Prueba.Data\\Prueba.Data.csproj": {
+    "C:\\Users\\Fabian\\Desktop\\UserManagement\\BackendPrueba\\Prueba.Data\\Prueba.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fabian\\Desktop\\PruebaTecnicaFinal\\Prueba.Data\\Prueba.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Fabian\\Desktop\\UserManagement\\BackendPrueba\\Prueba.Data\\Prueba.Data.csproj",
         "projectName": "Prueba.Data",
-        "projectPath": "C:\\Users\\Fabian\\Desktop\\PruebaTecnicaFinal\\Prueba.Data\\Prueba.Data.csproj",
+        "projectPath": "C:\\Users\\Fabian\\Desktop\\UserManagement\\BackendPrueba\\Prueba.Data\\Prueba.Data.csproj",
         "packagesPath": "C:\\Users\\Fabian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fabian\\Desktop\\PruebaTecnicaFinal\\Prueba.Data\\obj\\",
+        "outputPath": "C:\\Users\\Fabian\\Desktop\\UserManagement\\BackendPrueba\\Prueba.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fabian\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -117,8 +117,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Fabian\\Desktop\\PruebaTecnicaFinal\\Prueba.Model\\Prueba.Model.csproj": {
-                "projectPath": "C:\\Users\\Fabian\\Desktop\\PruebaTecnicaFinal\\Prueba.Model\\Prueba.Model.csproj"
+              "C:\\Users\\Fabian\\Desktop\\UserManagement\\BackendPrueba\\Prueba.Model\\Prueba.Model.csproj": {
+                "projectPath": "C:\\Users\\Fabian\\Desktop\\UserManagement\\BackendPrueba\\Prueba.Model\\Prueba.Model.csproj"
               }
             }
           }
@@ -168,14 +168,14 @@
         }
       }
     },
-    "C:\\Users\\Fabian\\Desktop\\PruebaTecnicaFinal\\Prueba.Model\\Prueba.Model.csproj": {
+    "C:\\Users\\Fabian\\Desktop\\UserManagement\\BackendPrueba\\Prueba.Model\\Prueba.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fabian\\Desktop\\PruebaTecnicaFinal\\Prueba.Model\\Prueba.Model.csproj",
+        "projectUniqueName": "C:\\Users\\Fabian\\Desktop\\UserManagement\\BackendPrueba\\Prueba.Model\\Prueba.Model.csproj",
         "projectName": "Prueba.Model",
-        "projectPath": "C:\\Users\\Fabian\\Desktop\\PruebaTecnicaFinal\\Prueba.Model\\Prueba.Model.csproj",
+        "projectPath": "C:\\Users\\Fabian\\Desktop\\UserManagement\\BackendPrueba\\Prueba.Model\\Prueba.Model.csproj",
         "packagesPath": "C:\\Users\\Fabian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fabian\\Desktop\\PruebaTecnicaFinal\\Prueba.Model\\obj\\",
+        "outputPath": "C:\\Users\\Fabian\\Desktop\\UserManagement\\BackendPrueba\\Prueba.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fabian\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ff42pbBQmfezb//h7WpsVN5F13DWCLoA97qsBxi9VQmMMnRcZT3kmbJYJAu5S2/Knw+BWi3B/Ew8lMD8U6pxSw==",
+  "dgSpecHash": "5f3v79MneoLeMGtxDjxG8IZMyeXX7g/+BREY6nZZBSVSBvwm3DEtcmXMg97Kcz7xHUP3udFGjW7KnT+wpsNsdw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fabian\\Desktop\\PruebaTecnicaFinal\\Prueba.Api\\Prueba.Api.csproj",
+  "projectFilePath": "C:\\Users\\Fabian\\Desktop\\UserManagement\\BackendPrueba\\Prueba.Api\\Prueba.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fabian\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
     "C:\\Users\\Fabian\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",

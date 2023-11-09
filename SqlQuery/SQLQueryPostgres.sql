@@ -18,3 +18,4 @@ CREATE TABLE Persons(
   UserId int,
   CONSTRAINT fk_person_user FOREIGN KEY (UserId) REFERENCES Users(Id)
 );
+

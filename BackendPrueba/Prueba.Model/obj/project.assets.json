@@ -1044,11 +1044,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fabian\\Desktop\\PruebaTecnicaFinal\\Prueba.Model\\Prueba.Model.csproj",
+      "projectUniqueName": "C:\\Users\\Fabian\\Desktop\\UserManagement\\BackendPrueba\\Prueba.Model\\Prueba.Model.csproj",
       "projectName": "Prueba.Model",
-      "projectPath": "C:\\Users\\Fabian\\Desktop\\PruebaTecnicaFinal\\Prueba.Model\\Prueba.Model.csproj",
+      "projectPath": "C:\\Users\\Fabian\\Desktop\\UserManagement\\BackendPrueba\\Prueba.Model\\Prueba.Model.csproj",
       "packagesPath": "C:\\Users\\Fabian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fabian\\Desktop\\PruebaTecnicaFinal\\Prueba.Model\\obj\\",
+      "outputPath": "C:\\Users\\Fabian\\Desktop\\UserManagement\\BackendPrueba\\Prueba.Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Fabian\\AppData\\Roaming\\NuGet\\NuGet.Config",
